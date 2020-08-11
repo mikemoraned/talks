@@ -1,15 +1,7 @@
-# Outline
+# Today
 
-what it means to be a multi-lingual or full-stack developer, including pros/cons, based on my experience and observations. The intent would be to give some insight to your students about why they may want to follow different paths. I'd also want to push back against some of the snobbishness and Tribalism that is sometimes a result of a narrow attachment to a particular language.
-
-Examples of re-use:
-
-- XPath match -> SQL -> map/select -> Linq
-- Haskell Quickcheck -> other langs
-
-Possible downsides:
-
-- C# yields != Python generators
+- What it means to be a multi-lingual or full-stack developer, based on my experience and observations
+- I'd like to give some insight about why you may want to follow different paths, including the pros/cons, as well as how you might do it.
 
 ---
 
@@ -69,42 +61,51 @@ fn main() {
 
 # What
 
-XPath / SQL / Linq /
-Ruby / Python
-
-"knowing the layout of the room"
+- XPath <-> SQL <-> Rust?
+- What's different / similar?
+- "knowing the layout of the room"
 
 ---
 
 # Why
 
-Spotting and re-using Patterns
-Perspective "Everything is shit"
-Bootstrap Value
-Problem-focussed
-Choosing the right language for the job
-Robust company
+- Spotting and re-using Patterns
+- Perspective: "Computers are shit" ( :-) )
+- Bootstrap Value
+- Problem-focussed
+- Choosing the right language for the job
+- Building a Robust Company
 
 ---
 
 # How
 
-Trying experiments / characterising options
-Pigeon-hole test: power + culture
-When to exit / feeling the grain ("this would be easier / better in Language X / Layer Y")
-Being a librarian / router
+- Try experiments
+  - example: Svelte, React
+- Characterise options
+  - "Pigeon-hole test": power vs culture
+- Try to "feel the grain"
+  - "this would be easier / better in Language X / Layer Y"
+- Be a librarian / router for others
 
 ---
 
 # Why Not
 
-Never the "best" at anything
-Hard for other people to understand what you do: you are the Elephant
-Can be easy to get distracted by options
+- Never the "best" at anything
+- Hard for other people to understand what you do
+  - you are the Elephant surrounded by the Blind men
+- Can be easy to get distracted by too many options
+- Can get confused
+  - example: C# `yield` != Python generator
 
 ---
 
 # Closing
 
-This is an option for a way to work, not a requirement. Being a specialist is still totally fine.
-Please be proficient in at least two languages. 1 is very different to 2 . "avoid being a Java programmer". Drop your prejudices (something I still struggle with)
+- This is an option for a way to work, not a recommendation for everyone.
+  - Being a specialist is still totally fine.
+- However: please be proficient in at least two languages.
+  - 2 is very different to 1
+  - Avoid being a Foo programmer.
+  - Drop your prejudices (something I still struggle with)
