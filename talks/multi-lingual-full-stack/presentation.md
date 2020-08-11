@@ -1,5 +1,3 @@
-footer: https://www.houseofmoran.com/ , https://twitter.com/mike_moran/
-
 # Outline
 
 what it means to be a multi-lingual or full-stack developer, including pros/cons, based on my experience and observations. The intent would be to give some insight to your students about why they may want to follow different paths. I'd also want to push back against some of the snobbishness and Tribalism that is sometimes a result of a narrow attachment to a particular language.
@@ -17,7 +15,55 @@ Possible downsides:
 
 # Who
 
-me: Made a career out of not wanting to pigeon-hole myself. AI & CS -> Two Startups -> Research Assitant -> Three big companies
+me: Made a career out of not wanting to pigeon-hole myself
+
+---
+
+# What: XPath
+
+```html
+<ul>
+  <li id="2">Bloop</li>
+  <li id="1">Feep</li>
+</ul>
+```
+
+```xpath
+//li[@id = 2]//text() -> Bloop
+//li[position() = last()] -> <li id="1">Feep</li>
+```
+
+---
+
+# What: SQL
+
+```sql
+SELECT CustomerName, Country
+FROM Customers
+WHERE City = 'Paris'
+```
+
+| CustomerName         | Country |
+| -------------------- | ------- |
+| Paris spécialités    | France  |
+| Spécialités du monde | France  |
+
+---
+
+# What: Rust
+
+```rust
+fn main() {
+    let a = [1, 0, 3];
+
+    let iterated : Vec<_> =
+        a.iter()
+         .filter(|&i| *i != 0 )
+         .collect();
+
+    dbg!(iterated);                iterated = [1, 3]
+}
+```
 
 ---
 
