@@ -25,6 +25,8 @@ me: Made a career out of not wanting to pigeon-hole myself
 //li[position() = last()] -> <li id="1">Feep</li>
 ```
 
+[link]: http://xpather.com/oGNHCuAb
+
 ---
 
 # What: SQL
@@ -39,6 +41,8 @@ WHERE City = 'Paris'
 | -------------------- | ------- |
 | Paris spécialités    | France  |
 | Spécialités du monde | France  |
+
+[link]: https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
 
 ---
 
@@ -57,11 +61,13 @@ fn main() {
 }
 ```
 
+[link]: https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e773b55d2c6ee6ec22b434c3a59499ea
+
 ---
 
 # What
 
-- XPath <-> SQL <-> Rust?
+- XPath `<->` SQL `<->` Rust?
 - What's different / similar?
 - "knowing the layout of the room"
 
@@ -71,7 +77,7 @@ fn main() {
 
 - Spotting and re-using Patterns
 - Perspective: "Computers are shit" ( :-) )
-- Bootstrap Value
+- "Bootstrap and Switch"
 - Problem-focussed
 - Choosing the right language for the job
 - Building a Robust Company
