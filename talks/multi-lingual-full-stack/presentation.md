@@ -1,17 +1,29 @@
+build-lists: true
+
 # Today
 
 - What it means to be a multi-lingual or full-stack developer, based on my experience and observations
-- I'd like to give some insight about why you may want to follow different paths, including the pros/cons, as well as how you might do it.
+- Some insight about why you may want to follow different paths, including the pros/cons, as well as how you might do it.
 
 ---
 
 # Who
 
-me: Made a career out of not wanting to pigeon-hole myself
+- me: Made a career out of not wanting to pigeon-hole myself
+  - https://twitter.com/mike_moran
+  - https://www.houseofmoran.com/
 
 ---
 
-# What: XPath
+---
+
+# What: Spotting Patterns
+
+- An illustratative example to get us started
+
+---
+
+# What: XPath Example
 
 ```html
 <ul>
@@ -29,7 +41,7 @@ me: Made a career out of not wanting to pigeon-hole myself
 
 ---
 
-# What: SQL
+# What: SQL Example
 
 ```sql
 SELECT CustomerName, Country
@@ -46,7 +58,7 @@ WHERE City = 'Paris'
 
 ---
 
-# What: Rust
+# What: Rust Example
 
 ```rust
 fn main() {
@@ -69,18 +81,32 @@ fn main() {
 
 - XPath `<->` SQL `<->` Rust?
 - What's different / similar?
-- "knowing the layout of the room"
 
 ---
 
-# Why
+# Any Questions?
+
+---
+
+# Why: lower-level
 
 - Spotting and re-using Patterns
-- Perspective: "Computers are shit" ( :-) )
-- "Bootstrap and Switch"
+  - know the layout of the room
 - Problem-focussed
-- Choosing the right language for the job
+- Choosing the right language/library for the job
+  - "Library-first Programming"
+
+---
+
+# Why: higher-level
+
+- Gives Perspective: "All Computers are Shit" ( :-) )
+- Bootstrap in X, Scale out in Y
 - Building a Robust Company
+
+---
+
+# Any Questions?
 
 ---
 
@@ -92,7 +118,7 @@ fn main() {
   - "Pigeon-hole test": power vs culture
 - Try to "feel the grain"
   - "this would be easier / better in Language X / Layer Y"
-- Be a librarian / router for others
+- Be a librarian / router for others, learn on the way
 
 ---
 
@@ -102,16 +128,28 @@ fn main() {
 - Hard for other people to understand what you do
   - you are the Elephant surrounded by the Blind men
 - Can be easy to get distracted by too many options
-- Can get confused
+- Can get confusing technically
   - example: C# `yield` != Python generator
+
+---
+
+# Any Questions?
 
 ---
 
 # Closing
 
-- This is an option for a way to work, not a recommendation for everyone.
-  - Being a specialist is still totally fine.
-- However: please be proficient in at least two languages.
-  - 2 is very different to 1
-  - Avoid being a Foo programmer.
-  - Drop your prejudices (something I still struggle with)
+- This is an option, and not a recommendation for everyone.
+  - Being a specialist is still totally fine
+- However:
+  - please be proficient in at least 2 languages; 2 is very different to 1
+  - Avoid being a "Foo" programmer; drop your prejudices (something I still struggle with)
+
+---
+
+# Contact details
+
+- For any questions / suggestions:
+  - https://twitter.com/mike_moran
+  - mike@houseofmoran.com
+  - https://www.houseofmoran.com/
