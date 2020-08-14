@@ -115,7 +115,7 @@ fn main() {
 - Try experiments
   - example: Svelte, React
 - Characterise options
-  - "Pigeon-hole test": power vs culture
+  - "Pin-hole test": power vs culture
 - Try to "feel the grain"
   - "this would be easier / better in Language X / Layer Y"
 - Be a librarian / router for others, learn on the way
