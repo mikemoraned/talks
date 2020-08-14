@@ -25,6 +25,8 @@ build-lists: true
 
 # What: XPath Example
 
+[playground](http://xpather.com/oGNHCuAb)
+
 ```html
 <ul>
   <li id="2">Bloop</li>
@@ -37,11 +39,11 @@ build-lists: true
 //li[position() = last()] -> <li id="1">Feep</li>
 ```
 
-[link]: http://xpather.com/oGNHCuAb
-
 ---
 
 # What: SQL Example
+
+[playground](https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in)
 
 ```sql
 SELECT CustomerName, Country
@@ -54,11 +56,11 @@ WHERE City = 'Paris'
 | Paris spécialités    | France  |
 | Spécialités du monde | France  |
 
-[link]: https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
-
 ---
 
 # What: Rust Example
+
+[playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e773b55d2c6ee6ec22b434c3a59499ea)
 
 ```rust
 fn main() {
@@ -72,8 +74,6 @@ fn main() {
     dbg!(iterated);                iterated = [1, 3]
 }
 ```
-
-[link]: https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e773b55d2c6ee6ec22b434c3a59499ea
 
 ---
 
